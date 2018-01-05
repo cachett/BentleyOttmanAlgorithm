@@ -1,9 +1,14 @@
-
-
-
-Algorithme de Anais HADJ-AZEM Théo CACHET
-
 Executable: bo.py
+
+How to use:
+
+./bo.py file1.bo file2.bo and so on.
+
+Better if used in CLI with Terminology as it displays pictures in the terminal with tycat.
+
+
+
+Français:
 
 Utilisation ./bo.py fichier1.bo fichier2.bo etc...
 
